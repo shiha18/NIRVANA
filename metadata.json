@@ -1,0 +1,6 @@
+{
+  "name": "NIRVANA – Centre for Youth & Public Policy",
+  "description": "Young Minds. Better Communities. Building informed, engaged and empowered communities where young citizens actively contribute to sustainable and inclusive development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
